@@ -12,10 +12,11 @@
     justify-content: center;
     align-items: center;
     position: relative;
+    overflow: hidden;
 }
 .card-wrapper{
-    width: 30%;
-    height: 70%;
+    width: 400px;
+    height: 420px;
     background-color: #0ead93;
     position: absolute;
     display: flex;
