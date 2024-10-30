@@ -234,9 +234,10 @@ a i{
 }
 
 @media(max-width:850px) {
+    
     .card-wrapper{
-        max-width:250px;
-        width: 300px;
+        width: 350px;
+        height: 500px;
     }
     .bottom-group{
         flex-direction: column;
